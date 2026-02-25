@@ -1,2 +1,5 @@
-# B2303758
-Le Thien Loc, mssv B2303758, nganh He Thong Thong Tin
+👤 Thông tin cá nhân
+- Họ và tên: Lê Thiên Lộc
+- Mã số sinh viên: B2303758
+- Ngành học: Hệ thống thông tin
+- Trường: Đại học Cần Thơ
